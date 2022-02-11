@@ -62,7 +62,7 @@ Therefore, the accuracy of the gender classification is not what to be concerned
 
 *Results are based entirely on the accuracy of classification*:
 
-- *95% for CNN
-- *80% for KNN
-- *85~90% for LR.
+- *95% for CNN*
+- *80% for KNN*
+- *85~90% for LR*.
 
