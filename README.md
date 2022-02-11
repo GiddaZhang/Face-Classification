@@ -7,6 +7,17 @@ Therefore, the accuracy of the classification is not what to be concerned with a
 
 ## *Intension*
 
-*The very primary intension of uploading the codes is to check out whether I've learnt the * 
+- *The very primary intension of creating this repository is to check out whether I've learnt the basic using skills of git and Github rather than others.* 
 
-## *Background*
+- *Meanwhile, the repository might be a help for the junior if Python lectures is to be remained during the coming summer semester.*
+
+## *Branches*
+
+### *master*
+
+- *flies*
+
+
+*Clone the branch and open the entire folder with VS code, and the py file* `cnn.py` *can be ran directly*
+
+### *base*
