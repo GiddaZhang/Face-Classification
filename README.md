@@ -47,7 +47,7 @@ Therefore, the accuracy of the gender classification is not what to be concerned
 
 - *How to use*
 
-  *Clone the branch to your PC and open the entire folder with VS code, and the py file* `cnn.py` *can be ran directly*.
+  *Clone the branch to your PC and open the entire folder with VS code, and the py files* `KNN.py`, `KNN-SKLearn.py` *and* `LogisticRegression-SKLearn.py` *can be ran directly*.
 
 - *Environment*
 
@@ -55,10 +55,14 @@ Therefore, the accuracy of the gender classification is not what to be concerned
 
 - *Algorithm*
 
-  - KNN;
-  - Logistic Regression.
+  - *KNN*;
+  - *Logistic Regression*.
 
 ## *Results*
 
-95% for CNN, 80% for KNN and 85~90% for LR.
+*Results are based entirely on the accuracy of classification*:
+
+- *95% for CNN
+- *80% for KNN
+- *85~90% for LR.
 
