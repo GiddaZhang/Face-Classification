@@ -409,8 +409,8 @@ Female testing...
 
 #### 文献引用
 
-[^ 1]:[计算机程序设计基础（2） (tsinghua.edu.cn)](https://learn.tsinghua.edu.cn/f/wlxt/kczy/zy/student/viewZy?wlkcid=2020-2021-3142733354&sfgq=0&zyid=26ef84e878b5b6d4017aa3a992c96867&xszyid=26ef84e878b5b6d4017aa3a9938e6893)
-[^ 2]:[sklearn.linear_model.LogisticRegression — scikit-learn 0.24.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+[^1]:[计算机程序设计基础（2） (tsinghua.edu.cn)](https://learn.tsinghua.edu.cn/f/wlxt/kczy/zy/student/viewZy?wlkcid=2020-2021-3142733354&sfgq=0&zyid=26ef84e878b5b6d4017aa3a992c96867&xszyid=26ef84e878b5b6d4017aa3a9938e6893)
+[^2]:[sklearn.linear_model.LogisticRegression — scikit-learn 0.24.2 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 [^3]:[Python sklearn逻辑回归(Logistic Regression,LR)参数_weixin_50304531的博客-CSDN博客](https://blog.csdn.net/weixin_50304531/article/details/109717609)
 [^4]:[卷积神经网络（Convolutional Neural Network, CNN）  | TensorFlow Core (google.cn)](https://tensorflow.google.cn/tutorials/images/cnn)
 [^5]:[Gradio: 让机器学习算法秒变小程序 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/265553909)
